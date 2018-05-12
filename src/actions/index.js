@@ -4,6 +4,6 @@ export function selectBook(book){
     //an object with a type property
     return {
         type: 'BOOK_SELECTED',
-        payload: book
+        payload: book //payload further describes the further information sent with action
     };
 }

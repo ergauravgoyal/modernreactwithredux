@@ -3,15 +3,20 @@
 export default function () {
     return [
         {
-            title: 'JavaScript : The Good Parts'
+            title: 'JavaScript : The Good Parts',
+            pages:102
         }, {
-            title: 'The Secret'
+            title: 'The Secret',
+            pages:154
         }, {
-            title: 'NodeJS in Action'
+            title: 'NodeJS in Action',
+            pages:148
         }, {
-            title: 'React with Redux'
+            title: 'React with Redux',
+            pages:458
         }, {
-            title: 'ng-book'
+            title: 'ng-book',
+            pages:487
         }
     ]
 }
